@@ -1,4 +1,4 @@
-# College Management System
+# Smart Campus management system (MERN stack)
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)](https://www.mongodb.com/mern-stack)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -114,12 +114,6 @@ npm start
 cd backend
 npm run seed
 ```
-
-This will create a default admin account with the following credentials:
-
-- Employee ID: 123456
-- Password: admin123
-- Email: admin@gmail.com
 
 ## Project Structure
 
